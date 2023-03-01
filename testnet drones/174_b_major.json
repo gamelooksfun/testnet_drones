@@ -1,0 +1,16 @@
+{
+  "name": "drone 2",
+  "description": "by synesthesia crew",
+  "image": "ipfs://bafybeicarwk3mqnumtanujm6ucuvfyysy3beesza5vsncirjnp37rso36m",
+  "animation_url": "ipfs://bafybeidz3o3p767ppl3qerss45segbanj4dzqh6eljolo3jvdijsg6t6se",
+  "attributes": [
+    {
+      "trait_type": "bpm",
+      "value": 174
+    },
+    {
+      "trait_type": "key",
+      "value": "b major"
+    }
+  ]
+}

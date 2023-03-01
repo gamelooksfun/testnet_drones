@@ -1,0 +1,16 @@
+{
+  "name": "drone 3",
+  "description": "by synesthesia crew",
+  "image": "ipfs://bafybeidk7n2rwm23bl5kk7kn3s3hxxpr6fdcwwdvc2rk2abwjucolizhwu",
+  "animation_url": "ipfs://bafybeigt3gos2nwhsglrxlecdfiuah7j26kn5ngumximkae4awnt2y4asu",
+  "attributes": [
+    {
+      "trait_type": "bpm",
+      "value": 70
+    },
+    {
+      "trait_type": "key",
+      "value": "c minor"
+    }
+  ]
+}
